@@ -1,16 +1,23 @@
-## Hi there 👋
+HEY THERE !!
+### 🌟 About Me 🌟
+name: "Namitha Ravikumar"
+role: "AI/ML Enthusiast & Full Stack Developer"
+status: "2nd Year CS Major"
 
-<!--
-**namitha-022/namitha-022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tech Arsenal
+languages: 
+  frontend: ["JavaScript", "HTML", "CSS", "React"]
+  backend: ["Node.js", "Express.js"]
+  programming: ["Python", "C", "C++"]
+  learning: ["TensorFlow", "PyTorch", "Pandas"]
 
-Here are some ideas to get you started:
+# Current Mission
+current_focus: "🔮 Training neural networks to think like humans"
+projects: "Building intelligent systems that blur reality"
+learning: "Deep Learning architectures & Computer Vision"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Personal Stats
+interests: ["AI/ML", "Neural Networks", "Data Science", "Cyberpunk Tech"]
+mindset: "Turning coffee into algorithms since 2023 ☕"
+superpower: "Debugging AI models at 3 AM 🌙"
+fun_fact: "I code in electric grids 💜🌌"
