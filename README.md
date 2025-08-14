@@ -16,6 +16,37 @@
 <tr>
 <td width="50%" height="300px" valign="top" style="background: linear-gradient(135deg, #8B5A96, #6A4C93); border: 3px solid #B19CD9; padding: 20px; border-radius: 15px;">
 
+### <span style="color: #E6E6FA;">🌟 About Me</span>
+- **<span style="color: #DDA0DD;">Status:</span>** 2nd Year CS Major  
+- **<span style="color: #DDA0DD;">Role:</span>** AI/ML Enthusiast & Developer
+- **<span style="color: #DDA0DD;">Passion:</span>** Artificial Intelligence
+- **<span style="color: #DDA0DD;">Interests:</span>** Neural Networks, Data Science
+- **<span style="color: #DDA0DD;">Focus:</span>** Building intelligent systems
+- **<span style="color: #DDA0DD;">Vibe:</span>** Pixel perfect code ⬛
+
+</td>
+<td width="50%" height="300px" valign="top" style="background: linear-gradient(135deg, #2E1A47, #1A0B2E); border: 3px solid #663399; padding: 20px; border-radius: 15px;">
+
+### <span style="color: #E6E6FA;">🚀 Goals & Vision</span>
+
+**<span style="color: #9370DB;">2025 Goals:</span>**
+- 🎯 Build 5 AI projects
+- 📚 Master Deep Learning  
+- 🤝 Contribute to open source
+- 👁️ Explore Computer Vision
+
+**<span style="color: #9370DB;">Vision:</span>**  
+<span style="color: #DDA0DD;">Creating intelligent solutions through pixelated perfection and glowing innovation</span>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center" style="background: linear-gradient(90deg, #8B5A96, #6A4C93, #4A306D); padding: 20px; border-radius: 15px; border: 2px solid #B19CD9;">
+
+
 ### <span style="color: #E6E6FA;">🧠 AI/ML Focus</span>
 - <span style="color: #DDA0DD;">🔬 Training neural networks</span>
 - <span style="color: #DA70D6;">🏗️ Deep Learning architectures</span>
@@ -49,37 +80,8 @@
 <tr>
 <td width="50%" height="300px" valign="top" style="background: linear-gradient(135deg, #4A306D, #2E1A47); border: 3px solid #8A2BE2; padding: 20px; border-radius: 15px;">
 
-### <span style="color: #E6E6FA;">🌟 About Me</span>
-- **<span style="color: #DDA0DD;">Status:</span>** 2nd Year CS Major  
-- **<span style="color: #DDA0DD;">Role:</span>** AI/ML Enthusiast & Developer
-- **<span style="color: #DDA0DD;">Passion:</span>** Artificial Intelligence
-- **<span style="color: #DDA0DD;">Interests:</span>** Neural Networks, Data Science
-- **<span style="color: #DDA0DD;">Focus:</span>** Building intelligent systems
-- **<span style="color: #DDA0DD;">Vibe:</span>** Pixel perfect code ⬛
 
-</td>
-<td width="50%" height="300px" valign="top" style="background: linear-gradient(135deg, #2E1A47, #1A0B2E); border: 3px solid #663399; padding: 20px; border-radius: 15px;">
-
-### <span style="color: #E6E6FA;">🚀 Goals & Vision</span>
-
-**<span style="color: #9370DB;">2024 Goals:</span>**
-- 🎯 Build 5 AI projects
-- 📚 Master Deep Learning  
-- 🤝 Contribute to open source
-- 👁️ Explore Computer Vision
-
-**<span style="color: #9370DB;">Vision:</span>**  
-<span style="color: #DDA0DD;">Creating intelligent solutions through pixelated perfection and glowing innovation</span>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center" style="background: linear-gradient(90deg, #8B5A96, #6A4C93, #4A306D); padding: 20px; border-radius: 15px; border: 2px solid #B19CD9;">
-
-## <span style="color: #E6E6FA;">⬛ Pixel Stats ⬛</span>
+## <span style="color: #E6E6FA;">⬛ Personal Stats ⬛</span>
 
 <span style="color: #DDA0DD;">**Superpower:**</span> Debugging AI models in the purple void 🌌  
 <span style="color: #DDA0DD;">**Fun Fact:**</span> Coding in blocky perfection since 2023 🟪  
