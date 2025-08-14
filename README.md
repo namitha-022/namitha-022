@@ -1,15 +1,18 @@
 <div align="center">
 
-# <span style="color: #FF69B4;">🌸 **Namitha Ravikumar** 🌸</span>
+<!-- Pink Banner for Name -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=200&section=header&text=NAMITHA%20RAVIKUMAR&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
+
 ## <span style="color: #FF1493;">🧠 AI/ML Enthusiast 🤖</span>
 
 </div>
 
 ---
 
-<table>
+<!-- 2x2 Grid with Equal Heights -->
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" height="300px" valign="top" style="border: 2px solid #FF69B4; padding: 20px; border-radius: 10px;">
 
 ### <span style="color: #FF69B4;">🧠 AI/ML Focus</span>
 - <span style="color: #FF1493;">🔬 Training neural networks</span>
@@ -23,7 +26,7 @@
 - OpenCV & Scikit-learn
 
 </td>
-<td width="50%">
+<td width="50%" height="300px" valign="top" style="border: 2px solid #FF1493; padding: 20px; border-radius: 10px;">
 
 ### <span style="color: #FF69B4;">💻 Tech Stack</span>
 
@@ -41,24 +44,19 @@
 
 </td>
 </tr>
-</table>
-
----
-
-<table>
 <tr>
-<td width="50%">
+<td width="50%" height="300px" valign="top" style="border: 2px solid #C71585; padding: 20px; border-radius: 10px;">
 
 ### <span style="color: #FF69B4;">🌟 About Me</span>
-- **<span style="color: #FF1493;">Name:</span>** Namitha Ravikumar
 - **<span style="color: #FF1493;">Status:</span>** 2nd Year CS Major  
 - **<span style="color: #FF1493;">Role:</span>** AI/ML Enthusiast & Developer
 - **<span style="color: #FF1493;">Passion:</span>** Artificial Intelligence
 - **<span style="color: #FF1493;">Interests:</span>** Neural Networks, Data Science
 - **<span style="color: #FF1493;">Focus:</span>** Building intelligent systems
+- **<span style="color: #FF1493;">Goal:</span>** Making AI accessible
 
 </td>
-<td width="50%">
+<td width="50%" height="300px" valign="top" style="border: 2px solid #DB7093; padding: 20px; border-radius: 10px;">
 
 ### <span style="color: #FF69B4;">🚀 Goals & Vision</span>
 
