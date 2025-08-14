@@ -1,105 +1,88 @@
-HEY THERE !!
+<div align="center">
 
-### 🌟 About Me 🌟
-name: "Namitha Ravikumar"
-role: "AI/ML Enthusiast & Full Stack Developer"
-status: "2nd Year CS Major"
+# <span style="color: #FF69B4;">🌸 **Namitha Ravikumar** 🌸</span>
+## <span style="color: #FF1493;">🧠 AI/ML Enthusiast 🤖</span>
 
-# Tech Arsenal
-languages: 
-  frontend: ["JavaScript", "HTML", "CSS", "React"]
-  backend: ["Node.js", "Express.js"]
-  programming: ["Python", "C", "C++"]
-  learning: ["TensorFlow", "PyTorch", "Pandas"]
+</div>
 
-# Current Mission
-current_focus: "🔮 Training neural networks to think like humans"
-projects: "Building intelligent systems that blur reality"
-learning: "Deep Learning architectures & Computer Vision"
+---
 
-# Personal Stats
-interests: ["AI/ML", "Neural Networks", "Data Science", "Cyberpunk Tech"]
-mindset: "Turning coffee into algorithms since 2023 ☕"
-superpower: "Debugging AI models at 3 AM 🌙"
-fun_fact: "I code in electric grids 💜🌌"
+<table>
+<tr>
+<td width="50%">
+
+### <span style="color: #FF69B4;">🧠 AI/ML Focus</span>
+- <span style="color: #FF1493;">🔬 Training neural networks</span>
+- <span style="color: #FF69B4;">🏗️ Deep Learning architectures</span>
+- <span style="color: #FF1493;">👁️ Computer Vision projects</span>
+- <span style="color: #FF69B4;">📊 Data Science exploration</span>
+
+**<span style="color: #C71585;">Currently Learning:</span>**
+- TensorFlow & PyTorch
+- Pandas & NumPy  
+- OpenCV & Scikit-learn
+
+</td>
+<td width="50%">
+
+### <span style="color: #FF69B4;">💻 Tech Stack</span>
+
+**<span style="color: #FF1493;">Frontend:</span>**
+- JavaScript, HTML, CSS
+- React & Modern Frameworks
+
+**<span style="color: #FF1493;">Backend:</span>**
+- Node.js & Express.js
+- RESTful API Development
+
+**<span style="color: #FF1493;">Languages:</span>**
+- Python, C, C++
+- SQL & Database Management
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+### <span style="color: #FF69B4;">🌟 About Me</span>
+- **<span style="color: #FF1493;">Name:</span>** Namitha Ravikumar
+- **<span style="color: #FF1493;">Status:</span>** 2nd Year CS Major  
+- **<span style="color: #FF1493;">Role:</span>** AI/ML Enthusiast & Developer
+- **<span style="color: #FF1493;">Passion:</span>** Artificial Intelligence
+- **<span style="color: #FF1493;">Interests:</span>** Neural Networks, Data Science
+- **<span style="color: #FF1493;">Focus:</span>** Building intelligent systems
+
+</td>
+<td width="50%">
+
+### <span style="color: #FF69B4;">🚀 Goals & Vision</span>
+
+**<span style="color: #C71585;">2024 Goals:</span>**
+- 🎯 Build 5 AI projects
+- 📚 Master Deep Learning  
+- 🤝 Contribute to open source
+- 👁️ Explore Computer Vision
+
+**<span style="color: #C71585;">Vision:</span>**  
+<span style="color: #FF1493;">Creating intelligent solutions that solve real-world problems through innovative AI applications</span>
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-<!-- Simple AI/ML Banner -->
-<h1 style="background: linear-gradient(135deg, #FF69B4, #FF1493); color: white; padding: 30px; border-radius: 15px; margin: 20px 0;">
-  🧠 AI/ML Enthusiast 🤖
-</h1>
+## <span style="color: #FF69B4;">💖 Personal Stats 💖</span>
 
-<!-- 2x2 About Section Grid - Pink Theme -->
-<table width="100%" cellpadding="15" cellspacing="0">
-  <tr>
-    <td width="50%" valign="top">
-      <div style="background: linear-gradient(135deg, #FFB6C1, #FF91A4); padding: 25px; border-radius: 20px; border: 2px solid #FF69B4; height: 280px;">
-        <h3 align="center" style="color: #8B0040; margin-bottom: 20px;">🧠 AI/ML Focus</h3>
-        <div align="left" style="color: #4A0E2D; font-size: 14px;">
-          <strong>Current Projects:</strong><br>
-          • Training neural networks<br>
-          • Deep Learning architectures<br>
-          • Computer Vision projects<br>
-          • Data Science exploration<br><br>
-          
-          <strong>Learning:</strong><br>
-          • TensorFlow & PyTorch<br>
-          • Pandas & NumPy<br>
-          • OpenCV & Scikit-learn
-        </div>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div style="background: linear-gradient(135deg, #FF69B4, #FF1493); padding: 25px; border-radius: 20px; border: 2px solid #DC143C; height: 280px;">
-        <h3 align="center" style="color: white; margin-bottom: 20px;">💻 Tech Stack</h3>
-        <div align="left" style="color: #FFE4E1; font-size: 14px;">
-          <strong>Frontend:</strong><br>
-          • JavaScript, HTML, CSS<br>
-          • React & Modern Frameworks<br><br>
-          
-          <strong>Backend:</strong><br>
-          • Node.js & Express.js<br>
-          • RESTful API Development<br><br>
-          
-          <strong>Languages:</strong><br>
-          • Python, C, C++<br>
-          • SQL & Database Management
-        </div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div style="background: linear-gradient(135deg, #FF1493, #C71585); padding: 25px; border-radius: 20px; border: 2px solid #B22222; height: 280px;">
-        <h3 align="center" style="color: #FFE4E1; margin-bottom: 20px;">🌟 About Me</h3>
-        <div align="left" style="color: #FFCCCB; font-size: 14px;">
-          <strong>Name:</strong> Namitha Ravikumar<br>
-          <strong>Status:</strong> 2nd Year CS Major<br>
-          <strong>Role:</strong> AI/ML Enthusiast & Developer<br>
-          <strong>Passion:</strong> Artificial Intelligence<br>
-          <strong>Interests:</strong> Neural Networks, Data Science<br>
-          <strong>Current Focus:</strong> Building intelligent systems<br>
-          <strong>Goal:</strong> Making AI accessible and impactful
-        </div>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div style="background: linear-gradient(135deg, #DB7093, #C71585); padding: 25px; border-radius: 20px; border: 2px solid #8B0040; height: 280px;">
-        <h3 align="center" style="color: white; margin-bottom: 20px;">🚀 Goals & Vision</h3>
-        <div align="left" style="color: #FFE4E1; font-size: 14px;">
-          <strong>2024 Goals:</strong><br>
-          • Build 5 AI projects<br>
-          • Master Deep Learning<br>
-          • Contribute to open source<br>
-          • Explore Computer Vision<br><br>
-          
-          <strong>Vision:</strong><br>
-          Creating intelligent solutions that solve real-world problems through innovative AI applications
-        </div>
-      </div>
-    </td>
-  </tr>
-</table>
+<span style="color: #FF1493;">**Superpower:**</span> Debugging AI models at 3 AM 🌙  
+<span style="color: #FF1493;">**Fun Fact:**</span> Turning coffee into algorithms since 2023 ☕  
+<span style="color: #FF1493;">**Motto:**</span> If it can think, I can code it ⚡🧠  
 
 </div>
