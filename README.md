@@ -3,6 +3,18 @@
 <tr>
 <!-- About Me -->
 <td width="50%" valign="top" style="background: linear-gradient(135deg, #4A306D, #2E1A47); border: 3px solid #8A2BE2; padding: 20px; border-radius: 15px; height: 280px; vertical-align: top;">
+<div align="center">
+<!-- Purple Pixel Banner -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Courier%20New&size=45&color=B19CD9&center=true&vCenter=true&width=600&height=100&lines=🟪+NAMITHA+RAVIKUMAR+🟪;💜+AI%2FML+ENTHUSIAST+💜">
+</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<!-- 2x2 Grid with Purple Pixel Theme -->
+<table width="100%">
+<tr>
+<td width="50%" height="300px" valign="top" style="background: linear-gradient(135deg, #8B5A96, #6A4C93); border: 3px solid #B19CD9; padding: 20px; border-radius: 15px;">
 
 ### 🌟 About Me
 - **Status:** 2nd Year CS Major  
