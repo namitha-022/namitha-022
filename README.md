@@ -39,7 +39,7 @@
 - RESTful API Development
 
 **Languages:**
-- Python, C, C++
+- Javascript, Java, C, C++
 - SQL & Database Management
 
 </td>
