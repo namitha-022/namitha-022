@@ -1,63 +1,57 @@
 # Hi there! 👋
 
-<!-- Main Pixel Banner -->
-<p align="center">
-  <img src="https://fontmeme.com/permalink/240913/8df7c1db2c1521-pixel-title.png" alt="NAMITHA RAVIKUMAR Pixel Banner" width="600"/>
-</p>
+<!-- Main Title -->
+<h1 align="center">🎮 NAMITHA RAVIKUMAR 🎮</h1>
+<h3 align="center">Pixel Perfect Code Developer</h3>
 
 ---
 
-<!-- Coding Activity -->
-<p align="center">
-  <img src="https://fontmeme.com/permalink/240913/8df7c1db2c1521-coding-activity.png" alt="Coding Activity Banner" width="400"/>
-</p>
+## 🔥 Coding Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&background=0d1117&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namitha-022&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" alt="Top Languages" width="50%"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=namitha-022&theme=tokyonight&hide_border=true&background=0D1117)
+
+</div>
 
 ---
 
-<!-- GitHub Analytics -->
-<p align="center">
-  <img src="https://fontmeme.com/permalink/240913/8df7c1db2c1521-github-analytics.png" alt="GitHub Analytics Banner" width="400"/>
-</p>
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0d1117&hide_border=true&line=58a6ff&point=58a6ff" alt="Activity Graph" width="90%"/>
-</p>
+<div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namitha-022&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
----
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=namitha-022&theme=tokyo-night&hide_border=true&bg_color=0D1117)
 
-<!-- About Me -->
-<p align="center">
-  <img src="https://fontmeme.com/permalink/240913/8df7c1db2c1521-about-me.png" alt="About Me Banner" width="400"/>
-</p>
-
-- **Status:** 2nd Year CS Major 🎓
-- **Role:** AI/ML Enthusiast & Developer 🤖
-- **Passion:** Artificial Intelligence 🧠
-- **Interests:** Neural Networks, Data Science 📊
-- **Focus:** Building intelligent systems 🔧
-- **Vibe:** Pixel perfect code ⬛
-
-### 🚀 Currently Learning
-- Advanced Machine Learning Algorithms
-- Deep Learning with TensorFlow/PyTorch
-- Data Structures & Algorithms
-- Full-Stack Web Development
+</div>
 
 ---
 
-<!-- Tech Stack -->
-<p align="center">
-  <img src="https://fontmeme.com/permalink/240913/8df7c1db2c1521-tech-stack.png" alt="Tech Stack Banner" width="400"/>
-</p>
+## 🚀 About Me
+
+```
+⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+⬛  Status: 2nd Year CS Major          ⬛
+⬛  Role: AI/ML Enthusiast & Developer ⬛ 
+⬛  Passion: Artificial Intelligence   ⬛
+⬛  Interests: Neural Networks, Data   ⬛
+⬛  Focus: Building intelligent systems⬛
+⬛  Vibe: Pixel perfect code ⬛        ⬛
+⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+```
+
+### 🎯 Currently Learning
+- 🧠 Advanced Machine Learning Algorithms
+- 🔥 Deep Learning with TensorFlow/PyTorch  
+- 📊 Data Structures & Algorithms
+- 🌐 Full-Stack Web Development
+
+---
+
+## 🛠️ Tech Stack
 
 ### **Frontend:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -87,27 +81,13 @@
 
 ---
 
-<!-- Featured Projects -->
-<p align="center">
-  <img src="https://fontmeme.com/permalink/240913/featured-projects-pixel.png" alt="Featured Projects Banner" width="400"/>
-</p>
+## 🌟 Featured Projects
 
-### 🌟 Featured Repositories
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_1&theme=dark&bg_color=0d1117&hide_border=true" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=dark&bg_color=0d1117&hide_border=true" />
-  </a>
-</p>
+### 🔥 Coming Soon! 🔥
+*Currently working on some amazing AI/ML projects*
+*Stay tuned for updates!* ⭐
 
----
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</p>
+</div>
 
