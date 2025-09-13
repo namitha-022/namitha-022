@@ -1,8 +1,8 @@
 # Hi there! 👋
 
 <!-- Main Title -->
-<h1 align="center">🎮 NAMITHA RAVIKUMAR 🎮</h1>
-<h3 align="center">Pixel Perfect Code Developer</h3>
+<h1 align="center"> NAMITHA RAVIKUMAR </h1>
+
 
 ---
 
@@ -33,14 +33,12 @@
 ## 🚀 About Me
 
 ```
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-⬛  Status: 2nd Year CS Major          ⬛
-⬛  Role: AI/ML Enthusiast & Developer ⬛ 
-⬛  Passion: Artificial Intelligence   ⬛
-⬛  Interests: Neural Networks, Data   ⬛
-⬛  Focus: Building intelligent systems⬛
-⬛  Vibe: Pixel perfect code ⬛        ⬛
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+
+Status: 2nd Year CS Major Student         
+Role: AI/ML Enthusiast & Developer 
+Passion: Artificial Intelligence   
+Interests: Neural Networks, Data
+Focus: Building intelligent systems
 ```
 
 ### 🎯 Currently Learning
