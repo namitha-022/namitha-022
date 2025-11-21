@@ -2,8 +2,6 @@
 ## Coding Activity
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namitha-022&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=namitha-022&theme=tokyonight&hide_border=true&background=0D1117)
 
